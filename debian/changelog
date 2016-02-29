@@ -1,3 +1,11 @@
+wasta-vertex (0.9.0) xenial; urgency=medium
+
+  * created new actions/system-shutdown,system-log-out,lock icons
+  * removed places/desktop icons (will get from inherited theme)
+  * copied in places/user-trash,user-trash-full from humanity
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Mon, 29 Feb 2016 17:02:16 +0300
+
 wasta-vertex (0.1.0) xenial; urgency=medium
 
   * initial commit
