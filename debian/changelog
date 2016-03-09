@@ -5,7 +5,7 @@ wasta-vertex (0.9.1) xenial; urgency=medium
     to override the nemo "eject drive" icon.  By removing them, the default
     eject icon is again used (I think due to inheritance from ubuntu-mono-dark)
 
- -- Rik Shaw <akiverson@ai-16-04>  Wed, 09 Mar 2016 09:11:23 +0300
+ -- Rik Shaw <rikshaw76@gmail.com>  Wed, 09 Mar 2016 09:17:24 +0300
 
 wasta-vertex (0.9.0) xenial; urgency=medium
 
