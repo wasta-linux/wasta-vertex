@@ -1,3 +1,12 @@
+wasta-vertex (0.9.1) xenial; urgency=medium
+
+  * debian/postinst: removing all /usr/share/icons/Moka/*/apps/nemo.png icons.
+    These icons aren't needed for nemo and cause a problem as they are used
+    to override the nemo "eject drive" icon.  By removing them, the default
+    eject icon is again used (I think due to inheritance from ubuntu-mono-dark)
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Wed, 09 Mar 2016 09:17:24 +0300
+
 wasta-vertex (0.9.0) xenial; urgency=medium
 
   * created new actions/system-shutdown,system-log-out,lock icons

@@ -1,6 +1,6 @@
 [Icon Theme]
 Name=Wasta-Vertex
-Inherits=Moka,gnome,hicolor
+Inherits=Moka,ubuntu-mono-dark,hicolor
 Comment=Wasta-Vertex Icon theme
 
 #Directory list
