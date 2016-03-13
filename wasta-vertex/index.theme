@@ -25,7 +25,7 @@ Type=Fixed
 
 [panel/22]
 Size=22
-Context=Places
+Context=Status
 Type=Fixed
 
 [places/22]
