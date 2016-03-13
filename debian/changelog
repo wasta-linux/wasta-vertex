@@ -1,3 +1,9 @@
+wasta-vertex (0.9.4) xenial; urgency=medium
+
+  * index.theme: correcting panel folder to use "Status" context
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Sun, 13 Mar 2016 15:58:42 +0300
+
 wasta-vertex (0.9.3) xenial; urgency=medium
 
   * added panel folder (glipper-panel.svg, system-devices-panel.svg, etc.)
