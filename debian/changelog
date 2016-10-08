@@ -1,3 +1,9 @@
+wasta-vertex (0.9.5) xenial; urgency=medium
+
+  * places: reworked 16 and 24 folder icons
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Sat, 08 Oct 2016 14:13:52 +0300
+
 wasta-vertex (0.9.4) xenial; urgency=medium
 
   * index.theme: correcting panel folder to use "Status" context
